@@ -3,10 +3,6 @@ Library Management System developed in Spring Boot.
 
 https://www.youtube.com/watch?v=U3FH7YA__hI
 
-https://www.youtube.com/watch?v=HLL1YrpGJ9g&t=188s
-
-
-
 #### What does it offer?
 It allows user to manage Members, Categories, Books and Issueing Books.
 
